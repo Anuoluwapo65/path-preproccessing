@@ -1,0 +1,6 @@
+slideio == 1.0.3
+Pillow
+progressbar2
+openslide-python == 1.2.0
+openslide-bin
+opencv-python == 4.6.0.66
